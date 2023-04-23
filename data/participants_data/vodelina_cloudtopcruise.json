@@ -1,0 +1,124 @@
+{
+    "vodelina": [
+        {
+            "1": {
+                "config": {
+                    "character": "Bowser, Morton, Mii (Heavy)",
+                    "kart": "Badwagon, GLA",
+                    "tire": "Metal",
+                    "glider": "Super Glider, Waddle Wing, Hylian Kite"
+                },
+                "optimizer_name": "bayesian inference",
+                "score": 55
+            }
+        },
+        {
+            "2": {
+                "config": {
+                    "character": "Luigi, Iggy",
+                    "kart": "Prancer",
+                    "tire": "Slim, Wood, Crimson Slim",
+                    "glider": "Wario Wing, Plane Glider, Gold Glider, Paraglider"
+                },
+                "optimizer_name": "bayesian inference",
+                "score": 56
+            }
+        },
+        {
+            "3": {
+                "config": {
+                    "character": "Baby Peach, Baby Daisy",
+                    "kart": "Steel Driver, Tri-Speeder",
+                    "tire": "Monster, Hot Monster",
+                    "glider": "Super Glider, Waddle Wing, Hylian Kite"
+                },
+                "optimizer_name": "bayesian inference",
+                "score": 39
+            }
+        },
+        {
+            "4": {
+                "config": {
+                    "character": "Bowser, Morton, Mii (Heavy)",
+                    "kart": "Sneeker",
+                    "tire": "Slick, Cyber Slick",
+                    "glider": "Wario Wing, Plane Glider, Gold Glider, Paraglider"
+                },
+                "optimizer_name": "bayesian inference",
+                "score": 53
+            }
+        },
+        {
+            "5": {
+                "config": {
+                    "character": "Cat Peach, Villager Female, Inkling Female",
+                    "kart": "Standard Bike, Flame Rider",
+                    "tire": "Slim, Wood, Crimson Slim",
+                    "glider": "Peach Parasol, Parafoil, Bowser Kite, MKTV Parafoil"
+                },
+                "optimizer_name": "bayesian inference",
+                "score": 41
+            }
+        },
+        {
+            "6": {
+                "config": {
+                    "character": "Baby Peach, Baby Daisy",
+                    "kart": "Landship",
+                    "tire": "Roller, Azure Roller",
+                    "glider": "Peach Parasol, Parafoil, Bowser Kite, MKTV Parafoil"
+                },
+                "optimizer_name": "bayesian inference",
+                "score": 39
+            }
+        },
+        {
+            "7": {
+                "config": {
+                    "character": "Luigi, Iggy",
+                    "kart": "Landship",
+                    "tire": "Slim, Wood, Crimson Slim",
+                    "glider": "Cloud Glider, Parachute, Flower Glider, Paper Glider"
+                },
+                "optimizer_name": "bayesian inference",
+                "score": 36
+            }
+        },
+        {
+            "8": {
+                "config": {
+                    "character": "Wario, Dry Bowser",
+                    "kart": "Landship",
+                    "tire": "Roller, Azure Roller",
+                    "glider": "Cloud Glider, Parachute, Flower Glider, Paper Glider"
+                },
+                "optimizer_name": "bayesian inference",
+                "score": 39
+            }
+        },
+        {
+            "9": {
+                "config": {
+                    "character": "Koopa Troopa, Lakitu, Browser Jr",
+                    "kart": "Tanooki Kart",
+                    "tire": "Roller, Azure Roller",
+                    "glider": "Cloud Glider, Parachute, Flower Glider, Paper Glider"
+                },
+                "optimizer_name": "bayesian inference",
+                "score": 41
+            }
+        },
+        {
+            "10": {
+                "config": {
+                    "character": "Baby Peach, Baby Daisy",
+                    "kart": "Biddybuggy (Buggybud), Mr. Scooty",
+                    "tire": "Roller, Azure Roller",
+                    "glider": "Cloud Glider, Parachute, Flower Glider, Paper Glider"
+                },
+                "optimizer_name": "bayesian inference",
+                "score": 32
+            }
+        }
+    ]
+}

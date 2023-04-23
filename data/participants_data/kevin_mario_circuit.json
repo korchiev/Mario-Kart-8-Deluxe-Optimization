@@ -1,0 +1,186 @@
+{
+    "mason": [
+        {
+            "1": {
+                "config": {
+                    "character": "Bowser, Morton, Mii (Heavy)",
+                    "kart": "Mach 8, Sports Coupe",
+                    "tire": "Slick, Cyber Slick",
+                    "glider": "Wario Wing, Plane Glider, Gold Glider, Paraglider"
+                },
+                "optimizer_name": "bayesian inference",
+                "score": 11
+            }
+        },
+        {
+            "2": {
+                "config": {
+                    "character": "Baby Peach, Baby Daisy",
+                    "kart": "Biddybuggy (Buggybud), Mr. Scooty",
+                    "tire": "Roller, Azure Roller",
+                    "glider": "Cloud Glider, Parachute, Flower Glider, Paper Glider"
+                },
+                "optimizer_name": "bayesian inference",
+                "score": 11
+            }
+        },
+        {
+            "3": {
+                "config": {
+                    "character": "Baby Peach, Baby Daisy",
+                    "kart": "Biddybuggy (Buggybud), Mr. Scooty",
+                    "tire": "Slick, Cyber Slick",
+                    "glider": "Wario Wing, Plane Glider, Gold Glider, Paraglider"
+                },
+                "optimizer_name": "bayesian inference",
+                "score": 10
+            }
+        },
+        {
+            "4": {
+                "config": {
+                    "character": "Luigi, Iggy",
+                    "kart": "Cat Cruiser, Teddy Buggy",
+                    "tire": "Slim, Wood, Crimson Slim",
+                    "glider": "Peach Parasol, Parafoil, Bowser Kite, MKTV Parafoil"
+                },
+                "optimizer_name": "bayesian inference",
+                "score": 11
+            }
+        },
+        {
+            "5": {
+                "config": {
+                    "character": "Baby Rosalina, Lemmy",
+                    "kart": "Blue Falcon",
+                    "tire": "Slick, Cyber Slick",
+                    "glider": "Cloud Glider, Parachute, Flower Glider, Paper Glider"
+                },
+                "optimizer_name": "bayesian inference",
+                "score": 11
+            }
+        }
+    ],
+    "kevin": [
+        {
+            "1": {
+                "config": {
+                    "character": "Tanooki Mario, Villager Male, Inkling Male",
+                    "kart": "Steel Driver, Tri-Speeder",
+                    "tire": "Cushion",
+                    "glider": "Peach Parasol, Parafoil, Bowser Kite, MKTV Parafoil"
+                },
+                "optimizer_name": "random",
+                "score": 17
+            }
+        },
+        {
+            "2": {
+                "config": {
+                    "character": "Tanooki Mario, Villager Male, Inkling Male",
+                    "kart": "Standard Bike, Flame Rider",
+                    "tire": "Slim, Wood, Crimson Slim",
+                    "glider": "Wario Wing, Plane Glider, Gold Glider, Paraglider"
+                },
+                "optimizer_name": "random",
+                "score": 15
+            }
+        },
+        {
+            "3": {
+                "config": {
+                    "character": "Toad, Shy Guy, Larry",
+                    "kart": "Master Cycle",
+                    "tire": "Monster, Hot Monster",
+                    "glider": "Cloud Glider, Parachute, Flower Glider, Paper Glider"
+                },
+                "optimizer_name": "random",
+                "score": 26
+            }
+        },
+        {
+            "4": {
+                "config": {
+                    "character": "Peach, Daisy, Yoshi",
+                    "kart": "Tanooki Kart",
+                    "tire": "Metal",
+                    "glider": "Cloud Glider, Parachute, Flower Glider, Paper Glider"
+                },
+                "optimizer_name": "random",
+                "score": 16
+            }
+        },
+        {
+            "5": {
+                "config": {
+                    "character": "Koopa Troopa, Lakitu, Browser Jr",
+                    "kart": "Bone Rattler",
+                    "tire": "Gold Tires",
+                    "glider": "Peach Parasol, Parafoil, Bowser Kite, MKTV Parafoil"
+                },
+                "optimizer_name": "random",
+                "score": 15
+            }
+        },
+        {
+            "6": {
+                "config": {
+                    "character": "Toadette, Wendy, Isabelle",
+                    "kart": "Gold Standard (Gold Kart)",
+                    "tire": "Button, Leaf Tires",
+                    "glider": "Super Glider, Waddle Wing, Hylian Kite"
+                },
+                "optimizer_name": "random",
+                "score": 14
+            }
+        },
+        {
+            "7": {
+                "config": {
+                    "character": "Donkey Kong, Waluigi, Roy",
+                    "kart": "Mach 8, Sports Coupe",
+                    "tire": "Slim, Wood, Crimson Slim",
+                    "glider": "Cloud Glider, Parachute, Flower Glider, Paper Glider"
+                },
+                "optimizer_name": "random",
+                "score": 11
+            }
+        },
+        {
+            "8": {
+                "config": {
+                    "character": "Toad, Shy Guy, Larry",
+                    "kart": "Sport Bike, Jet Bike",
+                    "tire": "Slim, Wood, Crimson Slim",
+                    "glider": "Wario Wing, Plane Glider, Gold Glider, Paraglider"
+                },
+                "optimizer_name": "random",
+                "score": 17
+            }
+        },
+        {
+            "9": {
+                "config": {
+                    "character": "Toad, Shy Guy, Larry",
+                    "kart": "300 SL Roadster",
+                    "tire": "Standard, Blue Standard",
+                    "glider": "Wario Wing, Plane Glider, Gold Glider, Paraglider"
+                },
+                "optimizer_name": "random",
+                "score": 15
+            }
+        },
+        {
+            "10": {
+                "config": {
+                    "character": "Rosalina, Link, King Boo",
+                    "kart": "Comet, Yoshi Bike",
+                    "tire": "Slick, Cyber Slick",
+                    "glider": "Peach Parasol, Parafoil, Bowser Kite, MKTV Parafoil"
+                },
+                "optimizer_name": "random",
+                "score": 31
+            }
+        }
+    ]
+}

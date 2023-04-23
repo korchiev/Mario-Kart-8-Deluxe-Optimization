@@ -1,0 +1,124 @@
+{
+    "Mason": [
+        {
+            "1": {
+                "config": {
+                    "character": "Bowser, Morton, Mii (Heavy)",
+                    "kart": "Gold Standard (Gold Kart)",
+                    "tire": "Slick, Cyber Slick",
+                    "glider": "Cloud Glider, Parachute, Flower Glider, Paper Glider"
+                },
+                "optimizer_name": "bayesian optimization",
+                "score": 17
+            }
+        },
+        {
+            "2": {
+                "config": {
+                    "character": "Koopa Troopa, Lakitu, Browser Jr",
+                    "kart": "Mach 8, Sports Coupe",
+                    "tire": "Metal",
+                    "glider": "Wario Wing, Plane Glider, Gold Glider, Paraglider"
+                },
+                "optimizer_name": "bayesian optimization",
+                "score": 19
+            }
+        },
+        {
+            "3": {
+                "config": {
+                    "character": "Koopa Troopa, Lakitu, Browser Jr",
+                    "kart": "Comet, Yoshi Bike",
+                    "tire": "GLA Tires",
+                    "glider": "Wario Wing, Plane Glider, Gold Glider, Paraglider"
+                },
+                "optimizer_name": "bayesian optimization",
+                "score": 21
+            }
+        },
+        {
+            "4": {
+                "config": {
+                    "character": "Rosalina, Link, King Boo",
+                    "kart": "Sport Bike, Jet Bike",
+                    "tire": "Ancient",
+                    "glider": "Cloud Glider, Parachute, Flower Glider, Paper Glider"
+                },
+                "optimizer_name": "bayesian optimization",
+                "score": 28
+            }
+        },
+        {
+            "5": {
+                "config": {
+                    "character": "Baby Mario, Baby Luigi, Dry Bones, Mii (Light)",
+                    "kart": "Splat Buggy",
+                    "tire": "Slim, Wood, Crimson Slim",
+                    "glider": "Wario Wing, Plane Glider, Gold Glider, Paraglider"
+                },
+                "optimizer_name": "bayesian optimization",
+                "score": 14
+            }
+        },
+        {
+            "6": {
+                "config": {
+                    "character": "Bowser, Morton, Mii (Heavy)",
+                    "kart": "Splat Buggy",
+                    "tire": "Button, Leaf Tires",
+                    "glider": "Super Glider, Waddle Wing, Hylian Kite"
+                },
+                "optimizer_name": "bayesian optimization",
+                "score": 23
+            }
+        },
+        {
+            "7": {
+                "config": {
+                    "character": "Baby Mario, Baby Luigi, Dry Bones, Mii (Light)",
+                    "kart": "Splat Buggy",
+                    "tire": "Slim, Wood, Crimson Slim",
+                    "glider": "Peach Parasol, Parafoil, Bowser Kite, MKTV Parafoil"
+                },
+                "optimizer_name": "bayesian optimization",
+                "score": 22
+            }
+        },
+        {
+            "8": {
+                "config": {
+                    "character": "Metal Mario, Pink Gold Peach, Gold Mario",
+                    "kart": "Splat Buggy",
+                    "tire": "GLA Tires",
+                    "glider": "Wario Wing, Plane Glider, Gold Glider, Paraglider"
+                },
+                "optimizer_name": "bayesian optimization",
+                "score": 13
+            }
+        },
+        {
+            "9": {
+                "config": {
+                    "character": "Mario, Ludwig, Mii (Medium)",
+                    "kart": "Biddybuggy (Buggybud), Mr. Scooty",
+                    "tire": "Monster, Hot Monster",
+                    "glider": "Wario Wing, Plane Glider, Gold Glider, Paraglider"
+                },
+                "optimizer_name": "bayesian optimization",
+                "score": 19
+            }
+        },
+        {
+            "10": {
+                "config": {
+                    "character": "Mario, Ludwig, Mii (Medium)",
+                    "kart": "Splat Buggy",
+                    "tire": "GLA Tires",
+                    "glider": "Wario Wing, Plane Glider, Gold Glider, Paraglider"
+                },
+                "optimizer_name": "bayesian optimization",
+                "score": 12
+            }
+        }
+    ]
+}

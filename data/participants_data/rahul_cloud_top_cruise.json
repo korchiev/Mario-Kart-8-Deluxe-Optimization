@@ -1,0 +1,124 @@
+{
+    "rahul": [
+        {
+            "1": {
+                "config": {
+                    "character": "Baby Rosalina, Lemmy",
+                    "kart": "Splat Buggy",
+                    "tire": "Monster, Hot Monster",
+                    "glider": "Cloud Glider, Parachute, Flower Glider, Paper Glider"
+                },
+                "optimizer_name": "bayesian optimization",
+                "score": 38
+            }
+        },
+        {
+            "2": {
+                "config": {
+                    "character": "Koopa Troopa, Lakitu, Browser Jr",
+                    "kart": "Steel Driver, Tri-Speeder",
+                    "tire": "Roller, Azure Roller",
+                    "glider": "Peach Parasol, Parafoil, Bowser Kite, MKTV Parafoil"
+                },
+                "optimizer_name": "bayesian optimization",
+                "score": 27
+            }
+        },
+        {
+            "3": {
+                "config": {
+                    "character": "Tanooki Mario, Villager Male, Inkling Male",
+                    "kart": "300 SL Roadster",
+                    "tire": "Slick, Cyber Slick",
+                    "glider": "Cloud Glider, Parachute, Flower Glider, Paper Glider"
+                },
+                "optimizer_name": "bayesian optimization",
+                "score": 30
+            }
+        },
+        {
+            "4": {
+                "config": {
+                    "character": "Baby Mario, Baby Luigi, Dry Bones, Mii (Light)",
+                    "kart": "Master Cycle",
+                    "tire": "Off-Road, Retro Off-Road",
+                    "glider": "Super Glider, Waddle Wing, Hylian Kite"
+                },
+                "optimizer_name": "bayesian optimization",
+                "score": 35
+            }
+        },
+        {
+            "5": {
+                "config": {
+                    "character": "Peach, Daisy, Yoshi",
+                    "kart": "Wild Wiggler",
+                    "tire": "Triforce Tires",
+                    "glider": "Super Glider, Waddle Wing, Hylian Kite"
+                },
+                "optimizer_name": "bayesian optimization",
+                "score": 29
+            }
+        },
+        {
+            "6": {
+                "config": {
+                    "character": "Cat Peach, Villager Female, Inkling Female",
+                    "kart": "Steel Driver, Tri-Speeder",
+                    "tire": "Roller, Azure Roller",
+                    "glider": "Super Glider, Waddle Wing, Hylian Kite"
+                },
+                "optimizer_name": "bayesian optimization",
+                "score": 28
+            }
+        },
+        {
+            "7": {
+                "config": {
+                    "character": "Koopa Troopa, Lakitu, Browser Jr",
+                    "kart": "Cat Cruiser, Teddy Buggy",
+                    "tire": "Slick, Cyber Slick",
+                    "glider": "Wario Wing, Plane Glider, Gold Glider, Paraglider"
+                },
+                "optimizer_name": "bayesian optimization",
+                "score": 31
+            }
+        },
+        {
+            "8": {
+                "config": {
+                    "character": "Tanooki Mario, Villager Male, Inkling Male",
+                    "kart": "Steel Driver, Tri-Speeder",
+                    "tire": "Roller, Azure Roller",
+                    "glider": "Peach Parasol, Parafoil, Bowser Kite, MKTV Parafoil"
+                },
+                "optimizer_name": "bayesian optimization",
+                "score": 26
+            }
+        },
+        {
+            "9": {
+                "config": {
+                    "character": "Tanooki Mario, Villager Male, Inkling Male",
+                    "kart": "Steel Driver, Tri-Speeder",
+                    "tire": "Roller, Azure Roller",
+                    "glider": "Wario Wing, Plane Glider, Gold Glider, Paraglider"
+                },
+                "optimizer_name": "bayesian optimization",
+                "score": 29
+            }
+        },
+        {
+            "10": {
+                "config": {
+                    "character": "Metal Mario, Pink Gold Peach, Gold Mario",
+                    "kart": "Steel Driver, Tri-Speeder",
+                    "tire": "Triforce Tires",
+                    "glider": "Peach Parasol, Parafoil, Bowser Kite, MKTV Parafoil"
+                },
+                "optimizer_name": "bayesian optimization",
+                "score": 29
+            }
+        }
+    ]
+}

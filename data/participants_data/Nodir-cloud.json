@@ -1,0 +1,124 @@
+{
+    "Nodir": [
+        {
+            "1": {
+                "config": {
+                    "character": "Mario, Ludwig, Mii (Medium)",
+                    "kart": "Bone Rattler",
+                    "tire": "Slick, Cyber Slick",
+                    "glider": "Wario Wing, Plane Glider, Gold Glider, Paraglider"
+                },
+                "optimizer_name": "bayesian optimization",
+                "score": 40
+            }
+        },
+        {
+            "2": {
+                "config": {
+                    "character": "Tanooki Mario, Villager Male, Inkling Male",
+                    "kart": "W 25 Silver Arrow",
+                    "tire": "Metal",
+                    "glider": "Cloud Glider, Parachute, Flower Glider, Paper Glider"
+                },
+                "optimizer_name": "bayesian optimization",
+                "score": 38
+            }
+        },
+        {
+            "3": {
+                "config": {
+                    "character": "Donkey Kong, Waluigi, Roy",
+                    "kart": "Master Cycle",
+                    "tire": "Monster, Hot Monster",
+                    "glider": "Wario Wing, Plane Glider, Gold Glider, Paraglider"
+                },
+                "optimizer_name": "bayesian optimization",
+                "score": 49
+            }
+        },
+        {
+            "4": {
+                "config": {
+                    "character": "Donkey Kong, Waluigi, Roy",
+                    "kart": "Streetle",
+                    "tire": "Slim, Wood, Crimson Slim",
+                    "glider": "Wario Wing, Plane Glider, Gold Glider, Paraglider"
+                },
+                "optimizer_name": "bayesian optimization",
+                "score": 37
+            }
+        },
+        {
+            "5": {
+                "config": {
+                    "character": "Bowser, Morton, Mii (Heavy)",
+                    "kart": "Standard Bike, Flame Rider",
+                    "tire": "Gold Tires",
+                    "glider": "Cloud Glider, Parachute, Flower Glider, Paper Glider"
+                },
+                "optimizer_name": "bayesian optimization",
+                "score": 47
+            }
+        },
+        {
+            "6": {
+                "config": {
+                    "character": "Peach, Daisy, Yoshi",
+                    "kart": "Streetle",
+                    "tire": "GLA Tires",
+                    "glider": "Wario Wing, Plane Glider, Gold Glider, Paraglider"
+                },
+                "optimizer_name": "bayesian optimization",
+                "score": 35
+            }
+        },
+        {
+            "7": {
+                "config": {
+                    "character": "Peach, Daisy, Yoshi",
+                    "kart": "Streetle",
+                    "tire": "GLA Tires",
+                    "glider": "Cloud Glider, Parachute, Flower Glider, Paper Glider"
+                },
+                "optimizer_name": "bayesian optimization",
+                "score": 33
+            }
+        },
+        {
+            "8": {
+                "config": {
+                    "character": "Peach, Daisy, Yoshi",
+                    "kart": "Streetle",
+                    "tire": "Cushion",
+                    "glider": "Cloud Glider, Parachute, Flower Glider, Paper Glider"
+                },
+                "optimizer_name": "bayesian optimization",
+                "score": 30
+            }
+        },
+        {
+            "9": {
+                "config": {
+                    "character": "Wario, Dry Bowser",
+                    "kart": "Streetle",
+                    "tire": "Cushion",
+                    "glider": "Cloud Glider, Parachute, Flower Glider, Paper Glider"
+                },
+                "optimizer_name": "bayesian optimization",
+                "score": 28
+            }
+        },
+        {
+            "10": {
+                "config": {
+                    "character": "Wario, Dry Bowser",
+                    "kart": "Streetle",
+                    "tire": "Cushion",
+                    "glider": "Cloud Glider, Parachute, Flower Glider, Paper Glider"
+                },
+                "optimizer_name": "bayesian optimization",
+                "score": 28
+            }
+        }
+    ]
+}

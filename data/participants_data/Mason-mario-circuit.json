@@ -1,0 +1,124 @@
+{
+    "Mason": [
+        {
+            "1": {
+                "config": {
+                    "character": "Mario, Ludwig, Mii (Medium)",
+                    "kart": "Sport Bike, Jet Bike",
+                    "tire": "Monster, Hot Monster",
+                    "glider": "Peach Parasol, Parafoil, Bowser Kite, MKTV Parafoil"
+                },
+                "optimizer_name": "bayesian optimization",
+                "score": 25
+            }
+        },
+        {
+            "2": {
+                "config": {
+                    "character": "Toad, Shy Guy, Larry",
+                    "kart": "Sneeker",
+                    "tire": "Cushion",
+                    "glider": "Wario Wing, Plane Glider, Gold Glider, Paraglider"
+                },
+                "optimizer_name": "bayesian optimization",
+                "score": 14
+            }
+        },
+        {
+            "3": {
+                "config": {
+                    "character": "Koopa Troopa, Lakitu, Browser Jr",
+                    "kart": "Wild Wiggler",
+                    "tire": "Gold Tires",
+                    "glider": "Wario Wing, Plane Glider, Gold Glider, Paraglider"
+                },
+                "optimizer_name": "bayesian optimization",
+                "score": 16
+            }
+        },
+        {
+            "4": {
+                "config": {
+                    "character": "Mario, Ludwig, Mii (Medium)",
+                    "kart": "Cat Cruiser, Teddy Buggy",
+                    "tire": "Roller, Azure Roller",
+                    "glider": "Peach Parasol, Parafoil, Bowser Kite, MKTV Parafoil"
+                },
+                "optimizer_name": "bayesian optimization",
+                "score": 11
+            }
+        },
+        {
+            "5": {
+                "config": {
+                    "character": "Baby Mario, Baby Luigi, Dry Bones, Mii (Light)",
+                    "kart": "Biddybuggy (Buggybud), Mr. Scooty",
+                    "tire": "Monster, Hot Monster",
+                    "glider": "Wario Wing, Plane Glider, Gold Glider, Paraglider"
+                },
+                "optimizer_name": "bayesian optimization",
+                "score": 12
+            }
+        },
+        {
+            "6": {
+                "config": {
+                    "character": "Donkey Kong, Waluigi, Roy",
+                    "kart": "Cat Cruiser, Teddy Buggy",
+                    "tire": "Roller, Azure Roller",
+                    "glider": "Peach Parasol, Parafoil, Bowser Kite, MKTV Parafoil"
+                },
+                "optimizer_name": "bayesian optimization",
+                "score": 13
+            }
+        },
+        {
+            "7": {
+                "config": {
+                    "character": "Mario, Ludwig, Mii (Medium)",
+                    "kart": "Cat Cruiser, Teddy Buggy",
+                    "tire": "Roller, Azure Roller",
+                    "glider": "Cloud Glider, Parachute, Flower Glider, Paper Glider"
+                },
+                "optimizer_name": "bayesian optimization",
+                "score": 12
+            }
+        },
+        {
+            "8": {
+                "config": {
+                    "character": "Toad, Shy Guy, Larry",
+                    "kart": "Mach 8, Sports Coupe",
+                    "tire": "Roller, Azure Roller",
+                    "glider": "Cloud Glider, Parachute, Flower Glider, Paper Glider"
+                },
+                "optimizer_name": "bayesian optimization",
+                "score": 15
+            }
+        },
+        {
+            "9": {
+                "config": {
+                    "character": "Luigi, Iggy",
+                    "kart": "Biddybuggy (Buggybud), Mr. Scooty",
+                    "tire": "Monster, Hot Monster",
+                    "glider": "Cloud Glider, Parachute, Flower Glider, Paper Glider"
+                },
+                "optimizer_name": "bayesian optimization",
+                "score": 11
+            }
+        },
+        {
+            "10": {
+                "config": {
+                    "character": "Luigi, Iggy",
+                    "kart": "Biddybuggy (Buggybud), Mr. Scooty",
+                    "tire": "Monster, Hot Monster",
+                    "glider": "Super Glider, Waddle Wing, Hylian Kite"
+                },
+                "optimizer_name": "bayesian optimization",
+                "score": 11
+            }
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "Mason": [
+        {
+            "1": {
+                "config": {
+                    "character": "Toadette, Wendy, Isabelle",
+                    "kart": "W 25 Silver Arrow",
+                    "tire": "Button, Leaf Tires",
+                    "glider": "Cloud Glider, Parachute, Flower Glider, Paper Glider"
+                },
+                "optimizer_name": "bayesian optimization",
+                "score": 11
+            }
+        },
+        {
+            "2": {
+                "config": {
+                    "character": "Metal Mario, Pink Gold Peach, Gold Mario",
+                    "kart": "Comet, Yoshi Bike",
+                    "tire": "Off-Road, Retro Off-Road",
+                    "glider": "Wario Wing, Plane Glider, Gold Glider, Paraglider"
+                },
+                "optimizer_name": "bayesian optimization",
+                "score": 11
+            }
+        },
+        {
+            "3": {
+                "config": {
+                    "character": "Toad, Shy Guy, Larry",
+                    "kart": "Streetle",
+                    "tire": "Monster, Hot Monster",
+                    "glider": "Wario Wing, Plane Glider, Gold Glider, Paraglider"
+                },
+                "optimizer_name": "bayesian optimization",
+                "score": 10
+            }
+        },
+        {
+            "4": {
+                "config": {
+                    "character": "Toad, Shy Guy, Larry",
+                    "kart": "Biddybuggy (Buggybud), Mr. Scooty",
+                    "tire": "Off-Road, Retro Off-Road",
+                    "glider": "Wario Wing, Plane Glider, Gold Glider, Paraglider"
+                },
+                "optimizer_name": "bayesian optimization",
+                "score": 11
+            }
+        },
+        {
+            "5": {
+                "config": {
+                    "character": "Metal Mario, Pink Gold Peach, Gold Mario",
+                    "kart": "Cat Cruiser, Teddy Buggy",
+                    "tire": "Slick, Cyber Slick",
+                    "glider": "Peach Parasol, Parafoil, Bowser Kite, MKTV Parafoil"
+                },
+                "optimizer_name": "bayesian optimization",
+                "score": 11
+            }
+        },
+        {
+            "6": {
+                "config": {
+                    "character": "Baby Rosalina, Lemmy",
+                    "kart": "Wild Wiggler",
+                    "tire": "Metal",
+                    "glider": "Wario Wing, Plane Glider, Gold Glider, Paraglider"
+                },
+                "optimizer_name": "bayesian optimization",
+                "score": 13
+            }
+        },
+        {
+            "7": {
+                "config": {
+                    "character": "Cat Peach, Villager Female, Inkling Female",
+                    "kart": "Standard ATV (Quad)",
+                    "tire": "Button, Leaf Tires",
+                    "glider": "Wario Wing, Plane Glider, Gold Glider, Paraglider"
+                },
+                "optimizer_name": "bayesian optimization",
+                "score": 12
+            }
+        },
+        {
+            "8": {
+                "config": {
+                    "character": "Toad, Shy Guy, Larry",
+                    "kart": "Cat Cruiser, Teddy Buggy",
+                    "tire": "Triforce Tires",
+                    "glider": "Cloud Glider, Parachute, Flower Glider, Paper Glider"
+                },
+                "optimizer_name": "bayesian optimization",
+                "score": 11
+            }
+        },
+        {
+            "9": {
+                "config": {
+                    "character": "Baby Rosalina, Lemmy",
+                    "kart": "Master Cycle",d
+                    "tire": "Cushion",
+                    "glider": "Peach Parasol, Parafoil, Bowser Kite, MKTV Parafoil"
+                },
+                "optimizer_name": "bayesian optimization",
+                "score": 15
+            }
+        },
+        {
+            "10": {
+                "config": {
+                    "character": "Donkey Kong, Waluigi, Roy",
+                    "kart": "Wild Wiggler",
+                    "tire": "Roller, Azure Roller",
+                    "glider": "Cloud Glider, Parachute, Flower Glider, Paper Glider"
+                },
+                "optimizer_name": "bayesian optimization",
+                "score": 8
+            }
+        }
+    ]
+}

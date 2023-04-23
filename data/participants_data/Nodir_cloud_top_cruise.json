@@ -1,0 +1,124 @@
+
+    "Nodir": [
+        {
+            "1": {
+                "config": {
+                    "character": "Luigi, Iggy",
+                    "kart": "Standard ATV (Quad)",
+                    "tire": "Roller, Azure Roller",
+                    "glider": "Wario Wing, Plane Glider, Gold Glider, Paraglider"
+                },
+                "optimizer_name": "bayesian optimization",
+                "score": 41
+            }
+        },
+        {
+            "2": {
+                "config": {
+                    "character": "Luigi, Iggy",
+                    "kart": "Standard Kart, The Duke",
+                    "tire": "Roller, Azure Roller",
+                    "glider": "Super Glider, Waddle Wing, Hylian Kite"
+                },
+                "optimizer_name": "bayesian optimization",
+                "score": 30
+            }
+        },
+        {
+            "3": {
+                "config": {
+                    "character": "Cat Peach, Villager Female, Inkling Female",
+                    "kart": "Sport Bike, Jet Bike",
+                    "tire": "Slim, Wood, Crimson Slim",
+                    "glider": "Cloud Glider, Parachute, Flower Glider, Paper Glider"
+                },
+                "optimizer_name": "bayesian optimization",
+                "score": 35
+            }
+        },
+        {
+            "4": {
+                "config": {
+                    "character": "Toadette, Wendy, Isabelle",
+                    "kart": "Prancer",
+                    "tire": "Slick, Cyber Slick",
+                    "glider": "Super Glider, Waddle Wing, Hylian Kite"
+                },
+                "optimizer_name": "bayesian optimization",
+                "score": 38
+            }
+        },
+        {
+            "5": {
+                "config": {
+                    "character": "Koopa Troopa, Lakitu, Browser Jr",
+                    "kart": "300 SL Roadster",
+                    "tire": "Gold Tires",
+                    "glider": "Cloud Glider, Parachute, Flower Glider, Paper Glider"
+                },
+                "optimizer_name": "bayesian optimization",
+                "score": 100
+            }
+        },
+        {
+            "6": {
+                "config": {
+                    "character": "Cat Peach, Villager Female, Inkling Female",
+                    "kart": "Standard Kart, The Duke",
+                    "tire": "Slim, Wood, Crimson Slim",
+                    "glider": "Wario Wing, Plane Glider, Gold Glider, Paraglider"
+                },
+                "optimizer_name": "bayesian optimization",
+                "score": 37
+            }
+        },
+        {
+            "7": {
+                "config": {
+                    "character": "Toadette, Wendy, Isabelle",
+                    "kart": "Standard Kart, The Duke",
+                    "tire": "Roller, Azure Roller",
+                    "glider": "Super Glider, Waddle Wing, Hylian Kite"
+                },
+                "optimizer_name": "bayesian optimization",
+                "score": 38
+            }
+        },
+        {
+            "8": {
+                "config": {
+                    "character": "Wario, Dry Bowser",
+                    "kart": "Standard Kart, The Duke",
+                    "tire": "Ancient",
+                    "glider": "Peach Parasol, Parafoil, Bowser Kite, MKTV Parafoil"
+                },
+                "optimizer_name": "bayesian optimization",
+                "score": 46
+            }
+        },
+        {
+            "9": {
+                "config": {
+                    "character": "Metal Mario, Pink Gold Peach, Gold Mario",
+                    "kart": "Wild Wiggler",
+                    "tire": "GLA Tires",
+                    "glider": "Wario Wing, Plane Glider, Gold Glider, Paraglider"
+                },
+                "optimizer_name": "bayesian optimization",
+                "score": 32
+            }
+        },
+        {
+            "10": {
+                "config": {
+                    "character": "Luigi, Iggy",
+                    "kart": "Standard Kart, The Duke",
+                    "tire": "Roller, Azure Roller",
+                    "glider": "Cloud Glider, Parachute, Flower Glider, Paper Glider"
+                },
+                "optimizer_name": "bayesian optimization",
+                "score": 29
+            }
+        }
+    ]
+}

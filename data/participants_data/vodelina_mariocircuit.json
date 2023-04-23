@@ -1,0 +1,124 @@
+{
+    "Vodelina": [
+        {
+            "1": {
+                "config": {
+                    "character": "Baby Rosalina, Lemmy",
+                    "kart": "Blue Falcon",
+                    "tire": "Button, Leaf Tires",
+                    "glider": "Cloud Glider, Parachute, Flower Glider, Paper Glider"
+                },
+                "optimizer_name": "bayesian inference",
+                "score": 53
+            }
+        },
+        {
+            "2": {
+                "config": {
+                    "character": "Bowser, Morton, Mii (Heavy)",
+                    "kart": "Steel Driver, Tri-Speeder",
+                    "tire": "Slick, Cyber Slick",
+                    "glider": "Peach Parasol, Parafoil, Bowser Kite, MKTV Parafoil"
+                },
+                "optimizer_name": "bayesian inference",
+                "score": 61
+            }
+        },
+        {
+            "3": {
+                "config": {
+                    "character": "Bowser, Morton, Mii (Heavy)",
+                    "kart": "Badwagon, GLA",
+                    "tire": "Monster, Hot Monster",
+                    "glider": "Wario Wing, Plane Glider, Gold Glider, Paraglider"
+                },
+                "optimizer_name": "bayesian inference",
+                "score": 55
+            }
+        },
+        {
+            "4": {
+                "config": {
+                    "character": "Baby Rosalina, Lemmy",
+                    "kart": "Landship",
+                    "tire": "Roller, Azure Roller",
+                    "glider": "Peach Parasol, Parafoil, Bowser Kite, MKTV Parafoil"
+                },
+                "optimizer_name": "bayesian inference",
+                "score": 47
+            }
+        },
+        {
+            "5": {
+                "config": {
+                    "character": "Bowser, Morton, Mii (Heavy)",
+                    "kart": "Sneeker",
+                    "tire": "Slick, Cyber Slick",
+                    "glider": "Peach Parasol, Parafoil, Bowser Kite, MKTV Parafoil"
+                },
+                "optimizer_name": "bayesian inference",
+                "score": 61
+            }
+        },
+        {
+            "6": {
+                "config": {
+                    "character": "Bowser, Morton, Mii (Heavy)",
+                    "kart": "Badwagon, GLA",
+                    "tire": "Metal",
+                    "glider": "Wario Wing, Plane Glider, Gold Glider, Paraglider"
+                },
+                "optimizer_name": "bayesian inference",
+                "score": 66
+            }
+        },
+        {
+            "7": {
+                "config": {
+                    "character": "Bowser, Morton, Mii (Heavy)",
+                    "kart": "Tanooki Kart",
+                    "tire": "Monster, Hot Monster",
+                    "glider": "Wario Wing, Plane Glider, Gold Glider, Paraglider"
+                },
+                "optimizer_name": "bayesian inference",
+                "score": 52
+            }
+        },
+        {
+            "8": {
+                "config": {
+                    "character": "Baby Rosalina, Lemmy",
+                    "kart": "Biddybuggy (Buggybud), Mr. Scooty",
+                    "tire": "Slim, Wood, Crimson Slim",
+                    "glider": "Peach Parasol, Parafoil, Bowser Kite, MKTV Parafoil"
+                },
+                "optimizer_name": "bayesian inference",
+                "score": 47
+            }
+        },
+        {
+            "9": {
+                "config": {
+                    "character": "Bowser, Morton, Mii (Heavy)",
+                    "kart": "Badwagon, GLA",
+                    "tire": "Monster, Hot Monster",
+                    "glider": "Wario Wing, Plane Glider, Gold Glider, Paraglider"
+                },
+                "optimizer_name": "bayesian inference",
+                "score": 61
+            }
+        },
+        {
+            "10": {
+                "config": {
+                    "character": "Baby Rosalina, Lemmy",
+                    "kart": "Biddybuggy (Buggybud), Mr. Scooty",
+                    "tire": "Roller, Azure Roller",
+                    "glider": "Cloud Glider, Parachute, Flower Glider, Paper Glider"
+                },
+                "optimizer_name": "bayesian inference",
+                "score": 54
+            }
+        }
+    ]
+}
